@@ -1,0 +1,238 @@
+Output 1:
+Choose program:
+  1.Stack manager
+  2.Queue manager
+  3.String validator
+1
+Welcome to the elements' stack!
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+3
+can't pop! stack is empty!
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+1
+Enter element to push: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+1
+Enter element to push: b
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+1
+Enter element to push: c
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+4
+3: c
+2: b
+1: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+2
+top: c
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+4
+3: c
+2: b
+1: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+3
+pop: c
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+3
+pop: b
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+4
+1: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+3
+pop: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+2
+can't top! stack is empty!
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+0
+------------------------------------
+Output 2:
+Choose program:
+  1.Stack manager
+  2.Queue manager
+  3.String validator
+2
+Welcome to the elements' queue!
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+3
+can't dequeue! queue is empty!
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+1
+Enter element to enqueue: a
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+1
+Enter element to enqueue: b
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+1
+Enter element to enqueue: c
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+4
+queue length: 3
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+2
+peek: a
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+4
+queue length: 3
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+3
+dequeue: a
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+3
+dequeue: b
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+4
+queue length: 1
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+3
+dequeue: c
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+2
+can't peek! queue is empty!
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+0
+------------------------------------
+Output 3:
+Choose program:
+  1.Stack manager
+  2.Queue manager
+  3.String validator
+3
+Legal
+Legal
+Legal
+Illegal
+Illegal
+Legal

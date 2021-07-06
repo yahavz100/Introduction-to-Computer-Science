@@ -1,0 +1,96 @@
+Choose program:
+  1.Stack manager
+  2.Queue manager
+  3.String validator
+Welcome to the elements' stack!
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+can't pop! stack is empty!
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+Enter element to push: Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+Enter element to push: Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+Enter element to push: Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+3: c
+2: b
+1: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+top: c
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+3: c
+2: b
+1: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+pop: c
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+pop: b
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+1: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+pop: a
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit
+can't top! stack is empty!
+Please choose option:
+  1.push
+  2.top
+  3.pop
+  4.print stack
+  0.exit

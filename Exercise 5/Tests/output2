@@ -1,0 +1,92 @@
+Choose program:
+  1.Stack manager
+  2.Queue manager
+  3.String validator
+Welcome to the elements' queue!
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+can't dequeue! queue is empty!
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+Enter element to enqueue: Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+Enter element to enqueue: Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+Enter element to enqueue: Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+queue length: 3
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+peek: a
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+queue length: 3
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+dequeue: a
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+dequeue: b
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+queue length: 1
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+dequeue: c
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
+can't peek! queue is empty!
+Please choose option:
+  1.enqueue
+  2.peek
+  3.dequeue
+  4.num of elements
+  0.exit
