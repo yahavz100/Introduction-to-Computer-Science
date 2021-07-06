@@ -1,4 +1,4 @@
-# Introduction-to-Computer-Science
+# Introduction to Computer-Science
 These are my solutions for major assignments in course Introduction to Computer Science at Bar Ilan University
 
 Exercise 4 - Chess Engine implementation. <br/>
